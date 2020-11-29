@@ -3,7 +3,7 @@
 ## Members-:
 Teghdeep Kapoor (teghdeep@gmail.com)  <br />
 Dhananjay Sharma(sdhanajay006@gmail.com) <br />
-Divyam Shrivastava( divyam09srivastava@gmail.com )
+Divyam Shrivastava( divyam09srivastava@gmail.com ) <br />
 
 ## Idea -:
 A portal which shows the description, specialty, symptoms, causes, risk factors, diagnostic methods about the searched disease so that patient can know each and everything about the disease with single click by just logging into that portal.
