@@ -1,8 +1,8 @@
 # MacDoc
 
 ## Members-:
-Teghdeep Kapoor (teghdeep@gmail.com)
-Dhananjay Sharma(sdhanajay006@gmail.com)
+Teghdeep Kapoor (teghdeep@gmail.com)  <br />
+Dhananjay Sharma(sdhanajay006@gmail.com) <br />
 Divyam Shrivastava( divyam09srivastava@gmail.com )
 
 ## Idea -:
